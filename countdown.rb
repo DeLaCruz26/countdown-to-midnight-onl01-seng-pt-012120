@@ -1,4 +1,4 @@
-loop do
+10.times
 x = 10
 while x > 0
   puts "#{x} SECOND(S)!"
